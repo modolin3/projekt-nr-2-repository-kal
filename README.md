@@ -3,3 +3,5 @@
 Testowy tekst do cwiczenia comitów.
 
 First Branch
+
+Second Branch
